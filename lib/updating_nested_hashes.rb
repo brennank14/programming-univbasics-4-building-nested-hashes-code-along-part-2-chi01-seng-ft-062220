@@ -50,13 +50,12 @@ def add_characters
          :heroine_friends => [
          {name: "Steven", age: "30", attitude: "confused"},
          {name: "Nurse", age: "44", attitude: "worried"}
-         ]
-      },
+       ],
       :additional_characters => [
         {:name => "Prince Escalus"}, {:name => "Apothecary"}
       ]
-      }
-   }
+    }
+  }
 
    # Write code below that does the following programmatically:
    #
